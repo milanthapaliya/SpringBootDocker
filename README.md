@@ -1,7 +1,6 @@
-# Project Name
+# Spring Boot Docker Application
 
-This is a description of your project.
-
+This repository provides a basic boilerplate for setting up a Spring Boot application with Docker, including a PostgreSQL database. It includes Docker configuration files (Dockerfile and docker-compose.yml) to containerize the application and the database, allowing for easy deployment and development.
 ## Prerequisites
 
 Make sure you have Docker and Docker Compose installed on your machine.
