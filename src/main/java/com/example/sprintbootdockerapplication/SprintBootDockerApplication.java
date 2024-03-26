@@ -1,4 +1,4 @@
-package com.example.sprintbootdockerapplicaiton;
+package com.example.sprintbootdockerapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
